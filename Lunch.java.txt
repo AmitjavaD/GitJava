@@ -3,5 +3,6 @@ class Lunch
 public static void main (String args[])
 {
 System.out.println("Hi Amit \n did you take your lunch");
+System.out.println("just stick with it Amit that phase will also pass soon"); 
 }
 }
